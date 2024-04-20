@@ -1,10 +1,7 @@
 #  TmpHanGang
 
-<div align="center">
-   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-   [![CodeFactor](https://www.codefactor.io/repository/github/ixxeh-p/tmphangang/badge)](https://www.codefactor.io/repository/github/ixxeh-p/tmphangang)
-</div>
+[![CodeFactor](https://www.codefactor.io/repository/github/ixxeh-p/tmphangang/badge)](https://www.codefactor.io/repository/github/ixxeh-p/tmphangang)
+[![License](https://img.shields.io/badge/License-MIT-green)](https://github.com/ixxeh-p/TmpHanGang/blob/main/LICENSE)
 
 ## 프로젝트 소개
 한강물 온도를 파이썬으로 불러와 보자 추가로 저장된 명언도 같이 불러와 보자!
