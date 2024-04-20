@@ -3,6 +3,7 @@
 <div align="center">
    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+   [![CodeFactor](https://www.codefactor.io/repository/github/ixxeh-p/tmphangang/badge)](https://www.codefactor.io/repository/github/ixxeh-p/tmphangang)
 </div>
 
 ## 프로젝트 소개
